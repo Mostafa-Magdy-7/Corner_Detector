@@ -42,12 +42,5 @@ You can replace them with your own for testing.
 - Text overlay with detected window size and number of corners.
 - Comparison of image sizes to determine which logo is smaller/larger based on pixel area.
 
----
 
-## 🛠️ Installation
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/corner-detector.git
-cd corner-detector
 
